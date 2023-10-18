@@ -8,6 +8,10 @@ Precisa estar dentro do arquivo do servidor Apache ou WampServer (wamp64).
 
 Assim, você poderá acessar no navegador http://localhost/php/.
 
+# Detalhe caso precise
+
+. npm Install
+
 # Iniciar o branco de dados
 
 O banco de dados que estou usando é o MySQL para fazer o cadastro.
